@@ -10,9 +10,9 @@ USAGE
 
 Run:
 
-    rake server
+    node server.js
 
 Visit the webserver at:
 
-    http://localhost:9292
+    http://localhost:3035
 
