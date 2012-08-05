@@ -1,0 +1,76 @@
+[{
+    "title": "Dirt",
+    "artist": "Alice in Chains",
+    "tracks": [{
+        "title": "Would",
+        "url": "/music/13 Would_.m4a"
+    },
+    {
+        "title": "Rooster",
+        "url": "/music/06 Rooster.m4a"
+    }]
+},
+{
+    "title": "Best of Johnny Cash",
+    "artist": "Johnny Cash",
+    "tracks": [{
+        "title": "I Hurt Myself",
+        "url": "/music/03 I Hurt Myself.m4a"
+    },
+    {
+        "title": "God's Gonna Cut You Down",
+        "url": "/music/02 God's Gonna Cut You Down.m4a"
+    },
+    {
+        "title": "Sam Hall",
+        "url": "/music/09 Sam Hall.m4a"
+    },
+    {
+        "title": "Personal Jesus",
+        "url": "/music/07 Personal Jesus.m4a"
+    }]
+},
+{
+    "title": "The Best Of Led Zeppelin, Vol. 1",
+    "artist": "Led Zeppelin",
+    "tracks": [{
+        "title": "Babe I'm Gonna Leave You",
+        "url": "/music/02 Babe I'm Gonna Leave You.m4a"
+    },
+    {
+        "title": "Since I've Been Loving You",
+        "url": "/music/08 Since I've Been Loving You.m4a"
+    },
+    {
+        "title": "The Battle Of Evermore",
+        "url": "/music/11 The Battle Of Evermore.m4a"
+    },
+    {
+        "title": "Immigrant Song",
+        "url": "/music/07 Immigrant Song.m4a"
+    }]
+},
+{
+    "title": "Latter Days Best Of Led Zeppelin, Vol.2",
+    "artist": "Led Zeppelin",
+    "tracks": [{
+        "title": "Houses Of The Holy",
+        "url": "/music/03 Houses Of The Holy.m4a"
+    },
+	{
+        "title": "Ten Years Gone",
+        "url": "/music/06 Ten Years Gone.m4a"
+    },
+    {
+        "title": "Achilles Last Stand",
+        "url": "/music/07 Achilles Last Stand.m4a"
+    },
+    {
+        "title": "All My Love",
+        "url": "/music/09 All My Love.m4a"
+    },
+    {
+        "title": "Immigrant Song",
+        "url": "/music/07 Immigrant Song.m4a"
+    }]
+}]
