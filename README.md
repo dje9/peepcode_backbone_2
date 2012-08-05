@@ -1,0 +1,17 @@
+Backbone Tunes: A backbone.js demo
+==================================
+
+- Displays a list of available albums and their tracks
+- Allows queueing albums for playback
+- Plays the queue, one track at a time
+
+USAGE
+=====
+
+Run:
+
+    node server.js
+
+Visit the webserver at:
+
+    http://localhost:3035
